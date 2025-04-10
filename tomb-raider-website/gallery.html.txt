@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Галерея — Томб Райдер</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Галерея з фільму "Томб Райдер"</h1>
+  </header>
+
+  <main>
+    <section class="gallery">
+      <figure>
+        <img src="images/scene1.jpg" alt="Кадр 1">
+        <figcaption>Лара Крофт на острові</figcaption>
+      </figure>
+      <figure>
+        <img src="images/scene2.jpg" alt="Кадр 2">
+        <figcaption>Героїня на шляху до загубленої гробниці</figcaption>
+      </figure>
+      <figure>
+        <img src="images/scene3.jpg" alt="Кадр 3">
+        <figcaption>Бій на кораблі</figcaption>
+      </figure>
+    </section>
+
+    <nav>
+      <a href="index.html">Назад на головну</a>
+    </nav>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Мій улюблений фільм</p>
+  </footer>
+</body>
+</html>
